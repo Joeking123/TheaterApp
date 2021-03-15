@@ -1,0 +1,3 @@
+include ':threatapp'
+include ':app'
+rootProject.name='GitHubSearch'
